@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou Josias Broch 👋</h1>
+  <h1>Olá, me chamo Josias Broch 👋</h1>
   <h3>Desenvolvedor de Software | React, Next.js e TypeScript</h3>
   <p>Passo Fundo, RS · Brasil 🇧🇷</p>
 
@@ -14,8 +14,6 @@
 ---
 
 ## 👨‍💻 Sobre mim
-
-Sou desenvolvedor de software com foco no desenvolvimento Front-end utilizando React, Next.js e TypeScript. Também tenho experiência com React Native, desenvolvimento Back-end e integração de sistemas.
 
 Atuei na construção e evolução de produtos digitais nos setores de **saúde, agronegócio e energia**, trabalhando com aplicações web e mobile, dashboards, APIs REST, BFF, arquitetura de Micro Frontends e testes automatizados.
 
