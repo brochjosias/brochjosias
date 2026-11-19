@@ -21,14 +21,18 @@ Também trabalho com **integrações de LLMs, aplicações com IA generativa e a
 
 ```ts
 const josias = {
-  foco: "Desenvolvimento de Software",
-  especialidade: ["React", "Next.js", "TypeScript"],
+  role: "Software Engineer",
+  foco: ["Web Development", "Mobile Development", "Full Stack"],
+  stackPrincipal: ["React", "Next.js", "TypeScript"],
   mobile: "React Native",
   backend: ["Node.js", "NestJS", "Python"],
-  integracoes: ["REST APIs", "GraphQL", "BFF", "LLMs"],
+  arquitetura: ["REST APIs", "GraphQL", "BFF", "Micro Frontends"],
+  integracoes: ["LLM Integrations", "AI Applications"],
   automacoes: ["n8n"],
-  experiencia: ["Saúde", "Agronegócio", "Energia"],
-  localizacao: "Passo Fundo, RS - Brasil",
+  qualidade: ["Automated Testing", "Performance", "Scalability"],
+  experiencia: ["HealthTech", "AgTech", "Energy"],
+  localizacao: "Passo Fundo, RS - Brazil",
+  modalidade: "Remote"
 };
 ```
 
