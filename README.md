@@ -3,7 +3,7 @@
   <h3> Software Engineer | Full Stack Development | AI & LLM Integrations</h3>
   <p>Passo Fundo, RS · Brasil 🇧🇷</p>
 
-  <a href="https://www.linkedin.com/in/josiasbroch/">
+<a href="https://www.linkedin.com/in/josiasbroch/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://josiasbroch-dev.vercel.app/">
@@ -15,19 +15,23 @@
 
 ## 👨‍💻 Sobre mim
 
-Atuei na construção e evolução de produtos digitais nos setores de **saúde, agronegócio e energia**, trabalhando com aplicações web e mobile, dashboards, APIs REST, BFF, arquitetura de Micro Frontends e testes automatizados.
+Sou Desenvolvedor de Software com **5 anos de experiência** na construção e evolução de produtos digitais web e mobile. Trabalho principalmente com React, Next.js e TypeScript, além de integrações com backends, APIs REST, arquitetura BFF, Micro Frontends e testes automatizados.
 
-Também trabalho com **integrações de LLMs, aplicações com IA generativa e automações com n8n**, buscando aplicar essas tecnologias a problemas reais de software.
+Tenho experiência em produtos digitais nos setores de **saúde, agronegócio e energia**, atuando em soluções que exigem escalabilidade, performance, segurança e qualidade de código.
+
+Na QBem, participei do desenvolvimento de dashboards e funcionalidades do QHealth, uma plataforma SaaS de inteligência em saúde. A adoção de Micro Frontends e testes automatizados contribuiu para reduzir em aproximadamente **50% o tempo de entrega de funcionalidades**.
+
+Também trabalho com **integrações de LLMs, IA generativa e automações com n8n**, explorando aplicações práticas dessas tecnologias no desenvolvimento de software.
 
 ```ts
 const josias = {
   role: "Software Engineer",
   foco: ["Web Development", "Mobile Development", "Full Stack"],
-  stackPrincipal: ["React", "Next.js", "TypeScript"],
-  mobile: "React Native",
+  especialidade: ["React", "Next.js", "TypeScript"],
+  mobile: ["React Native"],
   backend: ["Node.js", "NestJS", "Python"],
   arquitetura: ["REST APIs", "GraphQL", "BFF", "Micro Frontends"],
-  integracoes: ["LLM Integrations", "AI Applications"],
+  integracoes: ["LLM Integrations", "Generative AI"],
   automacoes: ["n8n"],
   qualidade: ["Automated Testing", "Performance", "Scalability"],
   experiencia: ["HealthTech", "AgTech", "Energy"],
@@ -64,7 +68,7 @@ const josias = {
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**UI, estilos e gerenciamento de estado**
+**UI, estilos, estado e visualização de dados**
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
@@ -72,6 +76,7 @@ const josias = {
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge)
+![ECharts](https://img.shields.io/badge/ECharts-AA344D?style=for-the-badge)
 
 **Back-end e APIs**
 
@@ -80,7 +85,6 @@ const josias = {
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![ECharts](https://img.shields.io/badge/ECharts-AA344D?style=for-the-badge)
 
 **Bancos de dados e infraestrutura**
 
@@ -94,7 +98,7 @@ const josias = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Qualidade, testes e IA**
+**Qualidade, testes e inteligência artificial**
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
@@ -106,5 +110,5 @@ const josias = {
 ---
 
 <div align="center">
-  <sub>Construindo soluções, aprendendo continuamente e compartilhando código. 🚀</sub>
+  <sub>Construindo soluções, explorando novas tecnologias e evoluindo continuamente. 🚀</sub>
 </div>
