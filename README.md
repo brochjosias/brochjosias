@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, me chamo Josias Broch 👋</h1>
-  <h3> Software Engineer | Full Stack Development | React.js | TypeScript | Next.js | Node.js | REST APIs | AI & LLM Integrations</h3>
+  <h3> Software Engineer | Full Stack Development | AI & LLM Integrations</h3>
   <p>Passo Fundo, RS · Brasil 🇧🇷</p>
 
   <a href="https://www.linkedin.com/in/josiasbroch/">
